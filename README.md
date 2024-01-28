@@ -21,9 +21,8 @@ The dataset is structured with separate folders for each emotion category. Each 
 - sad/
 - surprised/
 
-## Usage
 
-### Clone the repository:
+## Clone the repository:
 `https://github.com/swapnilpawar24/Emotion-detection-.git`
    
 ## Model Architecture
