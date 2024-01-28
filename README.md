@@ -20,16 +20,19 @@ The dataset is structured with separate folders for each emotion category. Each 
 - neutral/
 - sad/
 - surprised/
-
-
-## Clone the repository:
-`https://github.com/swapnilpawar24/Emotion-detection-.git`
    
 ## Model Architecture
 The CNN model consists of multiple convolutional layers, batch normalization, activation functions, and fully connected layers. It is compiled using the Adam optimizer and categorical crossentropy loss.
 
 ## Training and Evaluation
 The model is trained using data augmentation on the training set and evaluated on a separate testing set. Training history, including loss and accuracy over epochs, is visualized using matplotlib.
+
+## Clone the repository:
+[HTTPs link](https://github.com/swapnilpawar24/Emotion-detection-.git)
+
+## Datasets :
+The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces divided into train and test dataset. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear).<br>
+[Dataset link](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)
 
 #### Author
 Swapnil Pawar
