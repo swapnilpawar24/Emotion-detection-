@@ -23,12 +23,14 @@ The dataset is structured with separate folders for each emotion category. Each 
 
 ## Usage
 
-1. Clone the repository:
+### Clone the repository:
+`https://github.com/swapnilpawar24/Emotion-detection-.git`
+   
 ## Model Architecture
 The CNN model consists of multiple convolutional layers, batch normalization, activation functions, and fully connected layers. It is compiled using the Adam optimizer and categorical crossentropy loss.
 
 ## Training and Evaluation
 The model is trained using data augmentation on the training set and evaluated on a separate testing set. Training history, including loss and accuracy over epochs, is visualized using matplotlib.
 
-Author
+#### Author
 Swapnil Pawar
